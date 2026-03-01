@@ -43,3 +43,4 @@ app.*.map.json
 # Claude extensions
 Claude.md
 .claude/
+docs/
